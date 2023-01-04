@@ -1,0 +1,14 @@
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\bin\Debug\netcoreapp3.1\Assignment2OOP.exe
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\bin\Debug\netcoreapp3.1\Assignment2OOP.deps.json
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\bin\Debug\netcoreapp3.1\Assignment2OOP.runtimeconfig.json
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\bin\Debug\netcoreapp3.1\Assignment2OOP.runtimeconfig.dev.json
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\bin\Debug\netcoreapp3.1\Assignment2OOP.dll
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\bin\Debug\netcoreapp3.1\Assignment2OOP.pdb
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\obj\Debug\netcoreapp3.1\Assignment2OOP.csproj.AssemblyReference.cache
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\obj\Debug\netcoreapp3.1\Assignment2OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\obj\Debug\netcoreapp3.1\Assignment2OOP.AssemblyInfoInputs.cache
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\obj\Debug\netcoreapp3.1\Assignment2OOP.AssemblyInfo.cs
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\obj\Debug\netcoreapp3.1\Assignment2OOP.csproj.CoreCompileInputs.cache
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\obj\Debug\netcoreapp3.1\Assignment2OOP.dll
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\obj\Debug\netcoreapp3.1\Assignment2OOP.pdb
+C:\Users\DEVAMORE\source\repos\Assignment2OOP\Assignment2OOP\obj\Debug\netcoreapp3.1\Assignment2OOP.genruntimeconfig.cache

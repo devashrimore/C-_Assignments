@@ -1,0 +1,14 @@
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\bin\Debug\netcoreapp3.1\Assignment5CF_Q6.exe
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\bin\Debug\netcoreapp3.1\Assignment5CF_Q6.deps.json
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\bin\Debug\netcoreapp3.1\Assignment5CF_Q6.runtimeconfig.json
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\bin\Debug\netcoreapp3.1\Assignment5CF_Q6.runtimeconfig.dev.json
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\bin\Debug\netcoreapp3.1\Assignment5CF_Q6.dll
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\bin\Debug\netcoreapp3.1\Assignment5CF_Q6.pdb
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\obj\Debug\netcoreapp3.1\Assignment5CF_Q6.csproj.AssemblyReference.cache
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\obj\Debug\netcoreapp3.1\Assignment5CF_Q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\obj\Debug\netcoreapp3.1\Assignment5CF_Q6.AssemblyInfoInputs.cache
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\obj\Debug\netcoreapp3.1\Assignment5CF_Q6.AssemblyInfo.cs
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\obj\Debug\netcoreapp3.1\Assignment5CF_Q6.csproj.CoreCompileInputs.cache
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\obj\Debug\netcoreapp3.1\Assignment5CF_Q6.dll
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\obj\Debug\netcoreapp3.1\Assignment5CF_Q6.pdb
+C:\Users\DEVAMORE\source\repos\Assignment5CF_Q6\Assignment5CF_Q6\obj\Debug\netcoreapp3.1\Assignment5CF_Q6.genruntimeconfig.cache
