@@ -1,0 +1,13 @@
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\obj\Debug\netcoreapp3.1\Assignment1_CSharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\obj\Debug\netcoreapp3.1\Assignment1_CSharpIntro.AssemblyInfoInputs.cache
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\obj\Debug\netcoreapp3.1\Assignment1_CSharpIntro.AssemblyInfo.cs
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\obj\Debug\netcoreapp3.1\Assignment1_CSharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\bin\Debug\netcoreapp3.1\Assignment1_CSharpIntro.exe
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\bin\Debug\netcoreapp3.1\Assignment1_CSharpIntro.deps.json
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\bin\Debug\netcoreapp3.1\Assignment1_CSharpIntro.runtimeconfig.json
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\bin\Debug\netcoreapp3.1\Assignment1_CSharpIntro.runtimeconfig.dev.json
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\bin\Debug\netcoreapp3.1\Assignment1_CSharpIntro.dll
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\bin\Debug\netcoreapp3.1\Assignment1_CSharpIntro.pdb
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\obj\Debug\netcoreapp3.1\Assignment1_CSharpIntro.dll
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\obj\Debug\netcoreapp3.1\Assignment1_CSharpIntro.pdb
+C:\Users\DEVAMORE\source\repos\Assignment1_CSharpIntro\Assignment1_CSharpIntro\obj\Debug\netcoreapp3.1\Assignment1_CSharpIntro.genruntimeconfig.cache
